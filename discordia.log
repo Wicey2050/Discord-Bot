@@ -1,0 +1,524 @@
+2021-10-07 16:57:39 | [INFO]    | Discordia 2.9.1
+2021-10-07 16:57:39 | [INFO]    | Connecting to Discord...
+2021-10-07 16:57:40 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 16:57:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 16:57:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 16:57:40 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 16:57:40 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:00:29 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:00:29 | [INFO]    | Connecting to Discord...
+2021-10-07 17:00:41 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: EAI_NONAME
+2021-10-07 17:00:46 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:00:46 | [INFO]    | Connecting to Discord...
+2021-10-07 17:00:56 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: EAI_NONAME
+2021-10-07 17:02:00 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:02:00 | [INFO]    | Connecting to Discord...
+2021-10-07 17:02:01 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 17:02:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 17:02:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 17:02:01 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 17:02:01 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:02:31 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:02:31 | [INFO]    | Connecting to Discord...
+2021-10-07 17:02:34 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 17:02:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 17:02:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 17:02:38 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 17:02:38 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:04:42 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:04:42 | [INFO]    | Connecting to Discord...
+2021-10-07 17:04:44 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 17:04:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 17:04:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 17:04:46 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 17:04:47 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:08:21 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:08:21 | [INFO]    | Connecting to Discord...
+2021-10-07 17:08:24 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 17:08:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 17:08:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 17:08:25 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 17:08:25 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:09:18 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:09:18 | [INFO]    | Connecting to Discord...
+2021-10-07 17:09:20 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 17:09:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 17:09:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 17:09:21 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 17:09:22 | [INFO]    | Shard 0 : Received READY
+2021-10-07 17:14:31 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:14:31 | [INFO]    | Connecting to Discord...
+2021-10-07 17:14:52 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-07 17:14:57 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:14:57 | [INFO]    | Connecting to Discord...
+2021-10-07 17:15:18 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-07 17:15:23 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:15:23 | [INFO]    | Connecting to Discord...
+2021-10-07 17:15:44 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-07 17:15:54 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:15:54 | [INFO]    | Connecting to Discord...
+2021-10-07 17:16:13 | [INFO]    | Discordia 2.9.1
+2021-10-07 17:16:13 | [INFO]    | Connecting to Discord...
+2021-10-07 17:16:34 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-07 19:31:16 | [INFO]    | Discordia 2.9.1
+2021-10-07 19:31:16 | [INFO]    | Connecting to Discord...
+2021-10-07 19:31:17 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 19:31:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 19:31:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 19:31:17 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 19:31:17 | [INFO]    | Shard 0 : Received READY
+2021-10-07 19:31:50 | [INFO]    | Discordia 2.9.1
+2021-10-07 19:31:50 | [INFO]    | Connecting to Discord...
+2021-10-07 19:31:50 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 19:31:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 19:31:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 19:31:50 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 19:31:51 | [INFO]    | Shard 0 : Received READY
+2021-10-07 19:32:40 | [INFO]    | Discordia 2.9.1
+2021-10-07 19:32:40 | [INFO]    | Connecting to Discord...
+2021-10-07 19:32:40 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 19:32:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 19:32:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 19:32:40 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 19:32:40 | [INFO]    | Shard 0 : Received READY
+2021-10-07 19:34:04 | [INFO]    | Discordia 2.9.1
+2021-10-07 19:34:04 | [INFO]    | Connecting to Discord...
+2021-10-07 19:34:04 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-07 19:34:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-07 19:34:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-07 19:34:05 | [INFO]    | Shard 0 : Received HELLO
+2021-10-07 19:34:05 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:07:49 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:07:49 | [INFO]    | Connecting to Discord...
+2021-10-08 17:07:50 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:07:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:07:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:07:51 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:07:51 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:41:24 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:41:24 | [INFO]    | Connecting to Discord...
+2021-10-08 17:41:24 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:41:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:41:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:41:25 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:41:25 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:45:17 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:45:17 | [INFO]    | Connecting to Discord...
+2021-10-08 17:45:25 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ECONNABORTED
+2021-10-08 17:46:09 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:46:09 | [INFO]    | Connecting to Discord...
+2021-10-08 17:46:09 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:46:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:46:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:46:11 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:46:11 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:47:57 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:47:57 | [INFO]    | Connecting to Discord...
+2021-10-08 17:47:57 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:47:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:47:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:47:57 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:47:57 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:49:47 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:49:47 | [INFO]    | Connecting to Discord...
+2021-10-08 17:49:47 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:49:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:49:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:49:48 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:49:48 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:49:52 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 17:50:00 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:50:00 | [INFO]    | Connecting to Discord...
+2021-10-08 17:50:00 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:50:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:50:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:50:00 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:50:01 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:50:02 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 17:52:05 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:52:05 | [INFO]    | Connecting to Discord...
+2021-10-08 17:52:06 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:52:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:52:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:52:06 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:52:06 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:52:08 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 17:58:11 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:58:11 | [INFO]    | Connecting to Discord...
+2021-10-08 17:58:11 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:58:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:58:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:58:11 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:58:12 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:58:15 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 17:59:36 | [INFO]    | Discordia 2.9.1
+2021-10-08 17:59:36 | [INFO]    | Connecting to Discord...
+2021-10-08 17:59:37 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 17:59:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 17:59:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 17:59:37 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 17:59:37 | [INFO]    | Shard 0 : Received READY
+2021-10-08 17:59:42 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 18:03:01 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:03:01 | [INFO]    | Connecting to Discord...
+2021-10-08 18:03:01 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:03:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:03:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:03:01 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:03:02 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:03:19 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:03:19 | [INFO]    | Connecting to Discord...
+2021-10-08 18:03:19 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:03:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:03:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:03:19 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:03:19 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:03:21 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 18:06:24 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:06:24 | [INFO]    | Connecting to Discord...
+2021-10-08 18:06:24 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:06:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:06:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:06:24 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:06:25 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:06:26 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 18:10:33 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:10:33 | [INFO]    | Connecting to Discord...
+2021-10-08 18:10:33 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:10:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:10:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:10:34 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:10:34 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:10:36 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 18:13:08 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:13:08 | [INFO]    | Connecting to Discord...
+2021-10-08 18:13:08 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:13:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:13:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:13:08 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:13:08 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:13:46 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:13:46 | [INFO]    | Connecting to Discord...
+2021-10-08 18:13:46 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:13:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:13:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:13:46 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:13:46 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:14:33 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:14:33 | [INFO]    | Connecting to Discord...
+2021-10-08 18:14:33 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:14:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:14:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:14:33 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:14:33 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:15:51 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:15:51 | [INFO]    | Connecting to Discord...
+2021-10-08 18:15:51 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:15:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:15:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:15:51 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:15:52 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:16:29 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:16:29 | [INFO]    | Connecting to Discord...
+2021-10-08 18:16:29 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:16:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:16:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:16:30 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:16:30 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:18:57 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:18:57 | [INFO]    | Connecting to Discord...
+2021-10-08 18:18:57 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:18:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:18:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:18:57 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:18:57 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:19:29 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:19:29 | [INFO]    | Connecting to Discord...
+2021-10-08 18:19:29 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:19:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:19:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:19:29 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:19:30 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:27:49 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:27:49 | [INFO]    | Connecting to Discord...
+2021-10-08 18:27:49 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:27:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:27:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:27:49 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:27:50 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:28:16 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:28:16 | [INFO]    | Connecting to Discord...
+2021-10-08 18:28:16 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 18:28:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 18:28:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 18:28:16 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 18:28:16 | [INFO]    | Shard 0 : Received READY
+2021-10-08 18:33:41 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:33:41 | [INFO]    | Connecting to Discord...
+2021-10-08 18:34:02 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-08 18:34:07 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:34:07 | [INFO]    | Connecting to Discord...
+2021-10-08 18:34:29 | [INFO]    | Discordia 2.9.1
+2021-10-08 18:34:29 | [INFO]    | Connecting to Discord...
+2021-10-08 19:02:08 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:02:08 | [INFO]    | Connecting to Discord...
+2021-10-08 19:02:29 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-08 19:08:24 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:08:24 | [INFO]    | Connecting to Discord...
+2021-10-08 19:08:26 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:08:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:08:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:08:26 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:08:26 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:09:07 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:09:07 | [INFO]    | Connecting to Discord...
+2021-10-08 19:09:08 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:09:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:09:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:09:08 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:09:08 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:09:27 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 19:10:17 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:10:17 | [INFO]    | Connecting to Discord...
+2021-10-08 19:10:18 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:10:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:10:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:10:19 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:10:19 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:10:27 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 19:11:03 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:11:03 | [INFO]    | Connecting to Discord...
+2021-10-08 19:11:03 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:11:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:11:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:11:04 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:11:04 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:11:38 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:11:38 | [INFO]    | Connecting to Discord...
+2021-10-08 19:11:40 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:11:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:11:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:11:41 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:11:41 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:13:29 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:13:29 | [INFO]    | Connecting to Discord...
+2021-10-08 19:13:30 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:13:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:13:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:13:30 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:13:31 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:14:33 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:14:33 | [INFO]    | Connecting to Discord...
+2021-10-08 19:14:33 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:14:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:14:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:14:34 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:14:34 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:16:12 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:16:12 | [INFO]    | Connecting to Discord...
+2021-10-08 19:16:13 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:16:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:16:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:16:13 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:16:13 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:50:51 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:50:51 | [INFO]    | Connecting to Discord...
+2021-10-08 19:50:51 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:50:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:50:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:50:52 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:50:53 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:52:05 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:52:05 | [INFO]    | Connecting to Discord...
+2021-10-08 19:52:06 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:52:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:52:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:52:06 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:52:06 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:52:12 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 19:54:30 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:54:30 | [INFO]    | Connecting to Discord...
+2021-10-08 19:54:30 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:54:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:54:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:54:31 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:54:31 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:54:37 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 19:58:56 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:58:56 | [INFO]    | Connecting to Discord...
+2021-10-08 19:58:57 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:58:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:58:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:58:59 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:58:59 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:59:04 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 19:59:44 | [INFO]    | Discordia 2.9.1
+2021-10-08 19:59:44 | [INFO]    | Connecting to Discord...
+2021-10-08 19:59:45 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 19:59:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 19:59:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 19:59:45 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 19:59:45 | [INFO]    | Shard 0 : Received READY
+2021-10-08 19:59:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 20:00:54 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:00:54 | [INFO]    | Connecting to Discord...
+2021-10-08 20:00:55 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:00:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:00:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:00:55 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:00:56 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:17:00 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:17:00 | [INFO]    | Connecting to Discord...
+2021-10-08 20:17:01 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:17:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:17:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:17:02 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:17:02 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:27:41 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:27:41 | [INFO]    | Connecting to Discord...
+2021-10-08 20:27:42 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:27:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:27:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:27:42 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:27:43 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:29:49 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:29:49 | [INFO]    | Connecting to Discord...
+2021-10-08 20:29:49 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:29:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:29:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:29:49 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:29:49 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:30:01 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 20:30:42 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:30:42 | [INFO]    | Connecting to Discord...
+2021-10-08 20:30:43 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:30:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:30:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:30:43 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:30:44 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:31:12 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:31:12 | [INFO]    | Connecting to Discord...
+2021-10-08 20:31:13 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:31:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:31:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:31:14 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:31:14 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:31:27 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/895816939782426724/messages
+2021-10-08 20:31:59 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:31:59 | [INFO]    | Connecting to Discord...
+2021-10-08 20:31:59 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:31:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:32:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:32:00 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:32:00 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:33:19 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:33:19 | [INFO]    | Connecting to Discord...
+2021-10-08 20:33:20 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:33:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:33:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:33:21 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:33:21 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:38:47 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:38:47 | [INFO]    | Connecting to Discord...
+2021-10-08 20:38:47 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:38:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:38:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:38:47 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:38:47 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:39:37 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:39:37 | [INFO]    | Connecting to Discord...
+2021-10-08 20:39:37 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:39:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:39:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:39:37 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:39:37 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:42:16 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:42:16 | [INFO]    | Connecting to Discord...
+2021-10-08 20:42:16 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:42:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:42:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:42:17 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:42:17 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:45:14 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:45:14 | [INFO]    | Connecting to Discord...
+2021-10-08 20:45:15 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:45:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:45:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:45:15 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:45:15 | [INFO]    | Shard 0 : Received READY
+2021-10-08 20:59:51 | [INFO]    | Discordia 2.9.1
+2021-10-08 20:59:51 | [INFO]    | Connecting to Discord...
+2021-10-08 20:59:51 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 20:59:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 20:59:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 20:59:51 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 20:59:51 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:11:11 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:11:11 | [INFO]    | Connecting to Discord...
+2021-10-08 21:11:12 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:11:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:11:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:11:12 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:11:12 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:12:37 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:12:37 | [INFO]    | Connecting to Discord...
+2021-10-08 21:12:38 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:12:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:12:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:12:38 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:12:38 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:17:57 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:17:57 | [INFO]    | Connecting to Discord...
+2021-10-08 21:17:58 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:17:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:17:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:17:58 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:17:59 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:18:38 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:18:38 | [INFO]    | Connecting to Discord...
+2021-10-08 21:18:38 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:18:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:18:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:18:38 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:18:38 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:19:18 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:19:18 | [INFO]    | Connecting to Discord...
+2021-10-08 21:19:39 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-08 21:19:43 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:19:43 | [INFO]    | Connecting to Discord...
+2021-10-08 21:20:04 | [ERROR]   | Could not authenticate, check token: C:/Users/Kenneth/Desktop/Discord Bot/deps/coro-http.lua:75: ETIMEDOUT
+2021-10-08 21:23:18 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:23:18 | [INFO]    | Connecting to Discord...
+2021-10-08 21:23:18 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:23:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:23:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:23:19 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:23:19 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:23:45 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:23:45 | [INFO]    | Connecting to Discord...
+2021-10-08 21:23:45 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:23:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:23:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:23:45 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:23:46 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:24:21 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:24:21 | [INFO]    | Connecting to Discord...
+2021-10-08 21:24:21 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:24:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:24:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:24:21 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:24:21 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:26:04 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:26:04 | [INFO]    | Connecting to Discord...
+2021-10-08 21:26:05 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:26:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:26:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:26:05 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:26:05 | [INFO]    | Shard 0 : Received READY
+2021-10-08 21:27:44 | [INFO]    | Discordia 2.9.1
+2021-10-08 21:27:44 | [INFO]    | Connecting to Discord...
+2021-10-08 21:27:44 | [INFO]    | Authenticated as Sharquiessa#4485
+2021-10-08 21:27:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-10-08 21:27:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-10-08 21:27:44 | [INFO]    | Shard 0 : Received HELLO
+2021-10-08 21:27:44 | [INFO]    | Shard 0 : Received READY
