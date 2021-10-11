@@ -13,6 +13,7 @@ client:on("messageCreate", function(message)
 
   local content = message.content
   local author = message.guild:getMember(message.author.id)
+  local member = message.mentionedUsers.first
   
   if content:lower():sub(1,#'-add') == '-add' then
     local author = message.guild:getMember(message.author.id)
@@ -44,19 +45,13 @@ if author:hasPermission("banMembers") == false then
   return
   end
 end
-for user in message.mentionedUsers:iter() do
-  local member = message.mentionedUsers.first
-  if string.find(message.content, "<@[!]?" .. user.id .. ">") then
-    io.open("./List.txt"):write(user.id, '/n')
-  end
+if member == true then
+io.open("./List.txt"):write(member.id, '/n')
 end
-
 if content:lower():sub(1,#'-delete') == '-delete' then
   local author = message.guild:getMember(message.author.id)
-  local member = message.mentionedUsers.first
-
   if not member then
-    message:reply{
+    message:reply{ 
         embed = {
           title = 'Server Message',
           fields = {
@@ -82,11 +77,9 @@ message:reply{
 return
 end
 
-for user in message.mentionedUsers:iter() do
-if string.find(message.content, "<@[!]?" ..user.id.. ">") then
-    local file = io.open("./List.txt")
-    file:seek(message.mentionedUsers.name)
-  end
+if member == true then
+  io.open("./List.txt"):seek(member.id)
+  io.open("./List.txt"):write(member.id, " ")
     end
   if content:lower():sub(1,#'-list') == '-list' then
     local author = message.guild:getMember(message.author.id)
