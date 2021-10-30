@@ -9,91 +9,233 @@ client:on('ready', function()
     print('Logged in as '.. client.user.username)
 end)
 
-client:on("messageCreate", function(message)
 
-  local content = message.content
-  local author = message.guild:getMember(message.author.id)
-  local member = message.mentionedUsers.first
-  
-  if content:lower():sub(1,#'-add') == '-add' then
-    local author = message.guild:getMember(message.author.id)
-    local member = message.mentionedUsers.first
-    if not member then
-      message:reply{
-          embed = {
-            title = 'Server Message',
-            fields = {
-            {name = 'Error: ', value = 'User is not valid.', inline = false},
-            },
-        color = 000000,
-        timestamp = discordia.Date():toISO('T', 'Z')
-          }
-        }
-    return
-  end
-if author:hasPermission("banMembers") == false then
-  message:reply{
+client:on("messageCreate", function(message)
+local content = message.content
+local author = message.guild:getMember(message.author.id)
+local member = message.mentionedUsers.first
+
+--TEMPLETE
+--if content:lower():sub(1,#'-') == '-' then
+--message:reply{
+  --embed = {
+    --title = 'System Message',
+    --fields = {
+    --{name = '', value = '', inline = false},
+    --},
+--color = 000000,
+--timestamp = discordia.Date():toISO('T', 'Z')
+  --}
+--} 
+--end 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--BIO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-bio') == '-bio' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
       embed = {
-        title = 'Server Message',
+        title = 'System Message',
         fields = {
-        {name = 'Error: ', value = 'User does not have permission.', inline = false},
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
         },
     color = 000000,
     timestamp = discordia.Date():toISO('T', 'Z')
       }
-    }
-  return
-  end
-end
-if member == true then
-io.open("./List.txt"):write(member.id, '/n')
-end
-if content:lower():sub(1,#'-delete') == '-delete' then
-  local author = message.guild:getMember(message.author.id)
-  if not member then
-    message:reply{ 
-        embed = {
-          title = 'Server Message',
-          fields = {
-          {name = 'Error: ', value = 'User is not valid.', inline = false},
-          },
-      color = 000000,
-      timestamp = discordia.Date():toISO('T', 'Z')
-        }
-      }
-  return
-end
-elseif not author:hasPermission("banMembers") then
-message:reply{
+    } 
+    return
+  end  
+  
+  message:reply{
     embed = {
-      title = 'Server Message',
+      title = 'System Message',
       fields = {
-      {name = 'Error: ', value = 'User does not have permission.', inline = false},
+      {name = 'Item1', value = 'link', inline = false},
       },
   color = 000000,
   timestamp = discordia.Date():toISO('T', 'Z')
     }
-  }
-return
-end
-
-if member == true then
-  io.open("./List.txt"):seek(member.id)
-  io.open("./List.txt"):write(member.id, " ")
-    end
-  if content:lower():sub(1,#'-list') == '-list' then
-    local author = message.guild:getMember(message.author.id)
-    local file = io.open("./List.txt")
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--HEALTH 011
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-health') == '-health' then
+  if not author:hasRole("903687425870676029") then
     message:reply{
-        embed = {
-          title = 'Good List',
-          fields = {
-          {name = 'Name: ', value = file:read(), inline = false},
-          },
-      color = 000000,
-      timestamp = discordia.Date():toISO('T', 'Z')
-        }
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
       }
-  end
+    } 
+    return
+  end  
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--ART HISTORY
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-arthistory') == '-arthistory' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    } 
+    return
+  end  
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--SPANISH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-spanish') == '-spanish' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    } 
+    return
+  end  
+
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--HONORS ENGLISH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-henglish') == '-henglish' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    } 
+    return
+  end  
+
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--ENGLISH
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-english') == '-english' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    } 
+    return
+  end  
+
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--GRAPHIC ARTS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+if content:lower():sub(1,#'-graphicart') == '-graphicart' then
+  if not author:hasRole("903687425870676029") then
+    message:reply{
+      embed = {
+        title = 'System Message',
+        fields = {
+        {name = 'Permissions', value = 'user doesnt have permission to use command.', inline = false},
+        },
+    color = 000000,
+    timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    } 
+    return
+  end  
+
+
+  message:reply{
+    embed = {
+      title = 'System Message',
+      fields = {
+      {name = 'Item1', value = 'link', inline = false},
+      },
+  color = 000000,
+  timestamp = discordia.Date():toISO('T', 'Z')
+    }
+  } 
+end 
+
 end)
 client:run("Bot "..io.open("./Token.txt"):read())
